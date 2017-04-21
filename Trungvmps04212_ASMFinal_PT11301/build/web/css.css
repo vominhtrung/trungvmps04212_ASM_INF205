@@ -1,0 +1,154 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 9, 2016, 6:21:09 PM
+    Author     : Do Tien Dung
+*/
+body{
+    background-color:#ccccff;
+}
+.wrapper{
+    height: 1000px;
+    width: 1300px;
+    float:left;
+    border-color:black;
+    background-color:darkgrey;
+    margin-left: 10px;
+}
+.lg{
+    background-image: url(image/login.jpg)  ;
+    background-size: cover;
+}
+.box{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+    width: 500px;
+    height: 100px;
+    
+    
+    
+}
+h1{
+    
+  color:windowtext;
+  font-size: 40px;  
+}
+.nut{
+    margin-left: 220px;
+    position: absolute;
+}
+.nut1{
+    margin-left: 300px;
+    position: absolute;
+}
+.header{
+    height: 150px;
+    width: 1300px;
+    background-color:cyan;
+    float: left;
+}
+.content{
+    height: 650px;
+    width: 1300px;
+    background-color:#FFF;
+    float: left;
+}
+
+#hinh {
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 640px;
+    height: 240px;
+}
+.back{
+    position: absolute;
+    left: 20px;
+    top: 270px;
+}
+.next {
+    position: absolute;
+    left: 620px;
+    top:270px;
+}
+.topl-content{
+    height: 250px;
+    width: 648px;
+    float: left;
+    border-right: 1px solid;
+    border-bottom:  1px solid;
+}
+.topr-content{
+    height: 250px;
+    width: 648px;
+    float: left;
+    border-left: 1px solid;
+    border-bottom:  1px solid;
+}
+#qc{
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 640px;
+    height: 240px;
+}
+#footer{
+    height: 200px;
+    width: 1300px; 
+    float: left;
+}
+/*----- headder ---*/
+.head-box1{
+    width: 700px;
+    height: 100px;
+    float: left;
+}
+.head-box2{
+    
+    
+    width: 600px;
+    height: 150px;
+    float: left;
+    background-color:#ffcc99;
+}
+.dx{
+    margin-top: 15px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.dn{
+    margin-top: 15px;
+    text-decoration: none;
+    margin-left: 220px;
+}
+.edit-product1{
+   position: absolute;
+   margin-top: 45px;
+    margin-left: 150px;
+    float: left;
+}
+.edit-product2{
+   position: absolute;
+   margin-top: 45px;
+    margin-left: 260px;
+    float: left;
+}
+.edit-product3{
+   position: absolute;
+   margin-top: 45px;
+    margin-left: 410px;
+    float: left;
+}
+.edit-product4{
+   position: absolute;
+   margin-top: 45px;
+    margin-left: 40px;
+    float: left;
+}
+p{
+    text-align: center;
+    color: #ff6666;
+}
+
